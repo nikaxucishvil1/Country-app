@@ -1,0 +1,26 @@
+.search {
+  box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.0532);
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 1rem;
+  gap: 15px;
+  margin: 1rem;
+}
+.search button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: inherit;
+}
+.search input {
+  width: 100%;
+  border: none;
+  font-family: Nunito Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: rgba(196, 196, 196, 1);
+}
